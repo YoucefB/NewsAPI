@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News API</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_pref">Preferences</string>
+    <string name="error_loading">Network error, couldn\'t load data from server !</string>
+    <string name="frag_news_detail_title">News Detail</string>
+    <string name="frag_preferences_title">Preferences</string>
+    <string name="descrip_headline_image">Headline image</string>
+    <string name="read_more"><u>Read more</u></string>
+</resources>
